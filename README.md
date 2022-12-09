@@ -1,4 +1,5 @@
 # Hinge Auto-Swiper
+# Disclaimer - not responsible for the quality of matches
 
 
 1. Start your virtualenv: `virtualenv venv`
